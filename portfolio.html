@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post row post-preview">
+    	<div class="three columns"><img class="post-image" src="{{ site.baseurl }}{{ post.image }}"></div>
+    	<div class="post_description nine columns">
+    		<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+    		<div class="entry">{{ post.excerpt }}</div>
+            <div class="row">
+            {% for tag in post.role %}
+            <div class="tag">{{tag}}</div>
+            {% endfor %}
+        </div>
+    		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    	</div>
+    </article>
+  {% endfor %}
+</div>

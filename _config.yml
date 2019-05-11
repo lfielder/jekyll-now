@@ -6,7 +6,7 @@
 name: Lane Fielder
 
 # Short bio or description (displayed in the header)
-description: UX Designer in San Antonio, TX
+description: UX Designer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://lfielder.github.io/images/lane.jpg
@@ -37,7 +37,8 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-106945914-1
+google_analytics:
+
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -84,3 +85,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+theme: jekyll-theme-cayman
