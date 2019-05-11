@@ -3,7 +3,7 @@ layout: post
 title: Consolidate Support Ticket Experiences
 excerpt: "Combine all existing support ticket UIs into a single experience that can be evovled to support the future of Fanatical Support."
 image: "/images/ctui/title_image.png"
-role: {"Interaction Design", "Visual Design", "Research"}
+role: {"Interaction Design Lead", "Visual Design", "Research"}
 date: "January 2017 - Current"
 ---
 
