@@ -4,7 +4,8 @@ title: Consolidate Support Ticket Experiences
 excerpt: "Combine all existing support ticket UIs into a single experience that can be evovled to support the future of Fanatical Support."
 image: "/images/ctui/title_image.png"
 role: {"Interaction Design Lead", "Visual Design", "Research"}
-date: "January 2017 - Current"
+date-range: "Jan 2017 - Current"
+order: 1
 ---
 
 <a class="push-right" target="_blank" href="https://drive.google.com/open?id=1PkzC53YOEMzmD3r2zrtk7gsEg7Hcuy4w">Google Drive</a>
@@ -22,30 +23,35 @@ date: "January 2017 - Current"
 <p>
 	We started the design process with a future vision session with product management, dev leads, and myself. During these sessions we leveraged previous research and business needs to make intial decisions about our long term plan for what we termed the "Support Platform". We new that the long term goal of this project was to revolutionize the way we deliver support to customers and increase their visibility for the work we perform for them.
 </p>
-<h4>Kickoff</h4>
+<h5>Kickoff</h5>
 <p>
 	As with most successful projects, we held a kickoff week that included lead dev, product management, and design. It also includes multiple check-ins with project sponsors and key stakeholders. During the kickoff we established key milestones as well as the long term north-star vision for where this project could go.
 </p>
 <p>
-	We have found that developing a north star vision is very helpful when describing things to key business stakeholders to provide them with an idea of where we are headed. It also helps align design and dev about how decisions now will impact the future. The other key thing about north star is that it isn't nailed down 100%. It is a little fuzzy, but does provide guidance. 
+	Our first deliverable was documenting the user stories, prioritizing those stories, and then documenting the user workflows for these stories. 
 </p>
-<h4>Milestone 1 - MVP</h4>
+<div class="row">
+	<h5>User Stories</h5>
+	<a target="_blank" href="https://drive.google.com/open?id=13-q8vMQJISx5G0tyUBk-AdcYC4js0aeY"><img class="post-img" src="{{ site.baseurl }}/images/ctui/User_Stories.png"></a>
+</div>
+<div class="row">
+	<h5>User Workflows</h5>
+	<a href="https://drive.google.com/open?id=1dQozBjiKAMozMgVyhUGUlVj5oUsCWCsT" target="_blank">
+	<img class="post-img" src="{{ site.baseurl }}/images/ctui/user_flows.png"></a>
+</div>
+<h5>Milestone 1 - MVP</h5>
 
 <p>
 	Our MVP was initially focused on our dedicated hosting customers, but was switched to our public cloud customers due to requests from key customers and prospects. During this MVP phase we were able to introduce the side-by-side layout, create ticket flow, classifications, categorization, and severity. They big key feature for these users, and the main reason they were selected for our MVP release, was the need to create support tickets on specific sub-accounts that previously were not able to be associated with the tickets. This increased support productivity and customer confidence that their issue would be focused on the right infrastructure. 
 </p>
-<div class="row">
-	<a href="https://drive.google.com/open?id=1dQozBjiKAMozMgVyhUGUlVj5oUsCWCsT" target="_blank">
-	<img class="post-img" src="{{ site.baseurl }}/images/ctui/user_flows.png"></a>
-</div>
-<div class="row">
-	<a href="https://drive.google.com/open?id=1dmrOYSts_0dbW4At_czK25EAzSnNysn5" target="_blank">
-	<img class="post-img" src="{{ site.baseurl }}/images/ctui/Severity_Exploration.png"></a>
-</div>
+<p>
+	I created an invision project that was used as the source of truth for our development teams. This allowed us to make decisions in meetings, and I could update the source of truth without worry that developers might have out of date mockups. The links on the dev stories would remain the same and no matter what dev picked up the story, the design would be the most up to date one. This proved very helpful due to all of the technical changes during this project.
+</p>
+
 <div class="row"><a href="https://drive.google.com/open?id=1rsPXR0iQ1IXnv_Bo04niHVk3KVZsSCk6" target="_blank">
 	<img class="post-img" src="{{ site.baseurl }}/images/ctui/source_of_truth_v1.png"></a>
 </div>
-<h4>Milestone 2 - Dedicated Hosting Release</h4>
+<h5>Milestone 2 - Dedicated Hosting Release</h5>
 <p>
 	The dedicated hosting release increased complexity significantly. It introduced additional feature previously not available to cloud users like ticket favoriting and ticket templates. It also required us to adhear to one-off decisions made by the previous ticketing portal. Specific routing logic for specific customers and even specific features for specific customers. The experience on the surface was very similar, the work to accomplish this was anything but easy. 
 </p>
@@ -58,7 +64,7 @@ date: "January 2017 - Current"
 <div class="row"><a href="https://drive.google.com/open?id=1Sjw9MNHHnpPuweVW8oF_pfvuyh9NrePi" target="_blank">
 	<img class="post-img" src="{{ site.baseurl }}/images/ctui/device_selector.png"></a>
 </div>
-<h4>Milestone 3 - Service Now Integration</h4>
+<h5>Milestone 3 - Service Now Integration</h5>
 <p>
 Currently in development.
 </p>

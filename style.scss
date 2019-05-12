@@ -108,7 +108,9 @@ nav {
 //
 // .main
 //
-
+.page-title {
+  border: 1px solid #333333;
+}
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -167,6 +169,7 @@ footer {
   font-size:14px;
   color:#dddddd;
   text-transform: uppercase;
+  padding-left: 4px;
   a{
     
   }

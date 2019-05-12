@@ -4,7 +4,8 @@ title: Phone Call Logging Tool
 excerpt: "Incorporate with global search a way for employees to easily log that a customer called in and document the reason."
 image: "/images/interaction_log/title_image.png"
 role: {"Interaction Design Lead", "Research"}
-date: "November 2016 - January 2017"
+date-range: "Nov 2016 - Jan 2017"
+order: 2
 ---
 
 <p>
@@ -20,8 +21,11 @@ date: "November 2016 - January 2017"
 <p>
 	For this project, we had a lot of transitions that needed to occur. In order to communicate these correctly to the dev team and stakeholders, I created a video in order to communicate this.
 </p>
-<img class="post-img" src="{{ site.baseurl }}/images/interaction_log/user_selected.png">
-
+<h4>User Flows</h4>
+<img class="post-img" src="{{ site.baseurl }}/images/interaction_log/workflow.png">
+<h4>Mockups</h4>
+<img class="post-img" src="{{ site.baseurl }}/images/interaction_log/drawer_mockup.png">
+<h4>Interaction Flow</h4>
 <video width="900" height="500" controls="controls">
 <source src="{{ site.baseurl }}/images/interaction_log/Interaction_Log_Demo.mp4" type="video/mp4">
 </video>

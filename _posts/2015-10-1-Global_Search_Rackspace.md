@@ -4,7 +4,8 @@ title: Global Search
 excerpt: "Combine current internal customer search experiences into a single streamlined workflow."
 image: "/images/global_search/title_image.jpg"
 role: {"Interaction Design Lead", "Research"}
-date: "July 2015 - October 2015"
+date-range: "Jul 2015 - Oct 2015"
+order: 3
 ---
 <p>The business was looking to integrate the phone system with our internal tools. Our team took this request and started exploritory research on the impact this would have. We quickly realized that the proposed solution was not going to provide the value leaders anticipated. </p>
 
@@ -28,16 +29,19 @@ date: "July 2015 - October 2015"
 
 <p>For design to inform the API, the first thing we identified was the primary user-flow for the search tool.</p>
 
+<h4>User Flow</h4>
 <img class="post-img" src="{{ site.baseurl }}/images/global_search/primary_user_flow.png">
 
 <p>
 Once this was identified, we moved on to sketches to discover what data would need to be present at each phase. The search functinality and features quickly became the focus due to complexity and API requirements. This is where we developed the idea of content panels that allowed the user to navigate quickly between search results and would integrate with the current interface.
 </p>
+<h4>Wireframe</h4>
 <img class="post-img" src="{{ site.baseurl }}/images/global_search/search_prototype.gif">
 <p>
 With all the complexity that goes into this type of search, we also introduced search modifiers for expert users to leverage these to find their result more quickly.
 </p>
 
+<h4>Prototype</h4>
 <img class="post-img" src="{{ site.baseurl }}/images/global_search/search_tips.jpg">
 
 <p>
@@ -47,7 +51,7 @@ The panel interaction model became the foundation for the future account overvie
 
 <h2>Conclusion</h2>
 <p>
-With this new search tool we were able to reduce the time a customer had to wait for a transfer from 2 minutes down to 20 seconds. We also reduced the need for 3 tools that were able to be retired.
+With this new search tool we were able to reduce the time a customer had to wait for a transfer from <strong>2 minutes</strong> down to <strong>20 seconds</strong>. We also reduced the need for 3 tools that were able to be retired.
 </p>
 
 

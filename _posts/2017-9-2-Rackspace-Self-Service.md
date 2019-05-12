@@ -4,7 +4,8 @@ title: Self Service Experience
 excerpt: "Ceate a more cohesive and easier to use self-service experience for Rackspace customers."
 image: "/images/rackspace_self_service/title_image.png"
 role: {"Interaction Design", "Visual Design", "Research"}
-date: "June 2013 - December 2013"
+date-range: "Jun 2013 - Dec 2013"
+order: 5
 ---
 
 <p>The goal of this project was to bring the self service sites together visually and create a single header with search for all the sites. The problem being solved was that there was not a single search that would search across all of our documentation sources (API Docs, Community Posts, and How-To articles).</p>

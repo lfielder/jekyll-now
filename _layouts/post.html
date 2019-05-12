@@ -3,13 +3,27 @@ layout: default
 ---
 <div class="breadcrumbs"><a href="{{ site.baseurl }}/portfolio">Portfolio</a><span> / {{page.title}}
 </div>
-<article class="post">
-  <h1>{{ page.title }}</h1>
-  {% for role in page.role %}
-  <div class="tag">{{ role }}</div>
-  {% endfor %}
-  <div class="entry">
-    {{ content }}
-  </div>
-
-</article>
+<div class="row">
+<h1 class="page-title">{{ page.title }}</h1></div>
+<div class="row">
+	<div class="nine columns">
+		{{ content }}
+	</div>
+	<div class="three columns">
+		<dl>
+		    <dt>Project</dt>
+		    <dd>{{page.title}}</dd>
+		</dl>
+		<dl>
+		    <dt>Role</dt>
+		    {% for role in page.role %}
+			  <dd>{{ role }}</dd>
+			  {% endfor %}
+		    <dd>Value</dd>
+		</dl>
+		<dl>
+			<dt>Date</dt>
+			<dd>{{page.date-range}}</dd>
+		</dl>
+	</div>
+</div>
