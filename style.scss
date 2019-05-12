@@ -57,7 +57,22 @@
     margin: 0 auto;
   }
 }
-
+dd {
+    margin-left: 0;
+}
+dd:last-child {
+    margin-bottom: 24px;
+}
+dt {
+    font-weight:700;
+    text-transform: uppercase;
+}
+dl {
+    margin-top:0;
+}
+i {
+    margin-right:4px;
+}
 .site-name {
   margin: 0;
   color: $darkGray;
@@ -164,12 +179,7 @@ footer {
 
 
 
-.breadcrumbs{
-  display:block;
-  font-size:14px;
-  color:#dddddd;
-  text-transform: uppercase;
-  padding-left: 4px;
+
   a{
     
   }
