@@ -13,12 +13,20 @@ order: 1
 	This is a long-term (3-5 year) project with the goal to revolutionize the way we provide support to our customers. We want to become more consistent and bring together the end-to-end experiences for all customers. </p><p>I was responsible for making interaction and usability decisions for the MVP as well as subsequent release phases that would introduce the UI to additional users and have unique requirements. I worked very closely with Dev to ensure all legacy features are accounted for, but also to ensure that any adjustments we could make to these features would add value to customers. 
 </p>
 <h3>Research</h3>
+<p>We started our research by shadowing our employees to understand how they provded service today, and to listen into customer issues to better empathize with their experience.</p>
+<img class="post-img" src="{{ site.baseurl }}/images/ctui/racker_shadowing.png">
+<p>After shadowing our employees, we were much more informed and ready to talk with customers.</p>
 <p>
-	We had many research sessions with customers that included both user interviews and usability studies. </p> <p>The user interviews were focused on some of the new classifications, statuses, and severities we were introducing with the new UI. We were able to solve a business request to provide customers a more descriptive and consistent set of severities, classifications, and categories when creating support tickets, which allowed our teams to prioritize work more accurately. 
+	We had many research sessions with customers that included both user interviews and usability studies. </p> <p>Initial user interviews were a more broad discussion around the customer's current support experience and ways we can improve. We were able to show them some high-level vision work and gather feedback on how they would incorporate this. </p>
+<img class="post-img" src="{{ site.baseurl }}/images/ctui/Dashboard_2.png">
+
+<p>We then moved on to more focused discussion around new classifications, statuses, and severities we were looking at introducing. We were able to solve a business request to provide customers a more descriptive and consistent set of severities, classifications, and categories when creating support tickets, which allowed our teams to prioritize work more accurately. 
 </p>
 <p>
 	The usability studies focused on the new side-by-side layout, responsive layout options, and the new create ticket flow. We were also introducing new features for users that other systems provided like favoriting tickets. We wanted to understand how new users would adopt this feature. 
 </p>
+<p>The outcome of these research sessions was a clear direction on the problems we should be focusing on the improve our service offering.</p>
+<img class="post-img" src="{{ site.baseurl }}/images/ctui/high_level_goals.png">
 <h3>Design</h3>
 <p>
 	We started the design process with a future vision session with product management, dev leads, and myself. During these sessions we leveraged previous research and business needs to make intial decisions about our long term plan for what we termed the "Support Platform". We new that the long term goal of this project was to revolutionize the way we deliver support to customers and increase their visibility for the work we perform for them.
@@ -31,6 +39,10 @@ order: 1
 	Our first deliverable was documenting the user stories, prioritizing those stories, and then documenting the user workflows for these stories. 
 </p>
 <div class="row">
+	<h5>High Level Requirements</h5>
+	<img class="post-img" src="{{ site.baseurl }}/images/ctui/20170315_155850.jpg">
+	<h5>Rough Architecture Diagram</h5>
+	<img class="post-img" src="{{ site.baseurl }}/images/ctui/20170317_142959.jpg">
 	<h5>User Stories</h5>
 	<a target="_blank" href="https://drive.google.com/open?id=13-q8vMQJISx5G0tyUBk-AdcYC4js0aeY"><img class="post-img" src="{{ site.baseurl }}/images/ctui/User_Stories.png"></a>
 </div>
