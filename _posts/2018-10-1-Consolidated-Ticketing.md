@@ -65,7 +65,7 @@ order: 1
 </div>
 <h5>Milestone 2 - Dedicated Hosting Release</h5>
 <p>
-	The dedicated hosting release increased complexity significantly. It introduced additional feature previously not available to cloud users like ticket favoriting and ticket templates. It also required us to adhear to one-off decisions made by the previous ticketing portal. Specific routing logic for specific customers and even specific features for specific customers. The experience on the surface was very similar, the work to accomplish this was anything but easy. 
+	The dedicated hosting release increased complexity significantly. It introduced additional feature previously not available to cloud users like ticket favoriting and ticket templates. It also required us to adhear to one-off decisions made by the previous ticketing portal. Custom routing logic for specific customers and even one-off features for specific customers.
 </p>
 <p>
 	I was able to work very closely with our API team to develop APIs that would accomodate current features, but be scalable for the future. 
