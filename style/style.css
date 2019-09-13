@@ -68,7 +68,7 @@ i {
 }
 .post-img {
     max-width: 75%;
-    margin: 20px;   
+    margin: 20px auto;   
     box-shadow: 0px 0px 6px #999;
 }
 .index {
