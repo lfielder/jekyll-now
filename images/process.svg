@@ -1,87 +1,102 @@
 
-<svg width="1990px" height="2014px" viewBox="0 0 1990 2014" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="2627px" height="1037px" viewBox="0 0 2627 1037" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-Copy" transform="translate(-2792.000000, -520.000000)">
-            <path d="M4187.40791,892 C4388.09933,1092.5029 4388.19731,1417.52151 4187.70187,1618.146 L4205.02452,1635.45362 L4106,1651 L4121.561,1552.06849 L4142.43098,1572.9187 L4147.36048,1567.91287 C4317.91041,1391.90685 4316.1701,1111.0929 4142.13956,937.225831 L4187.40791,892 Z" id="Path" fill-opacity="0.5" fill="#4880C2"></path>
-            <path d="M3211.75004,921.406585 L3270.75004,1002.40659 L3242.28704,1002.40659 L3242.34025,1008.92476 C3246.3141,1254.02062 3446.2371,1451.48319 3692.27996,1451.48319 L3692.27996,1515.48319 C3408.71419,1515.48319 3178.78034,1285.8576 3178.28078,1002.40876 L3152.75004,1002.40659 L3211.75004,921.406585 Z" id="Combined-Shape" fill-opacity="0.5" fill="#C44971" transform="translate(3422.514999, 1218.444887) rotate(-315.000000) translate(-3422.514999, -1218.444887) "></path>
-            <path d="M4159,1648.75786 C3958.54392,1848.85187 3633.68269,1849.08045 3432.94238,1649.4436 L3413.55293,1668.79441 L3398,1570 L3496.97317,1585.52484 L3478.19046,1604.27362 L3482.80246,1608.80349 C3658.8826,1778.95709 3939.81482,1777.22083 4113.75512,1603.5947 L4159,1648.75786 Z" id="Path" fill-opacity="0.5" fill="#0A4455"></path>
-            <path d="M4178.44244,843.834906 L4194,943 L4094.99733,927.416914 L4112.9705,909.414145 L4108.39908,904.91015 C3932.26646,734.118109 3651.25051,735.860885 3477.25836,910.138478 L3432,864.805863 C3632.50189,663.975034 3957.42872,663.731674 4158.23216,864.075784 L4178.44244,843.834906 Z" id="Path" fill-opacity="0.5" fill="#7653A2"></path>
-            <text id="Observe-and-Analyze" font-family="Lato-Bold, Lato" font-size="48" font-weight="bold" fill="#666666">
-                <tspan x="2792" y="2297">Observe and Analyze</tspan>
-            </text>
-            <text id="Define-Problem" font-family="Lato-Bold, Lato" font-size="48" font-weight="bold" fill="#666666">
-                <tspan x="2792" y="1722">Define Problem</tspan>
-            </text>
-            <text id="Ideate-Solutions" font-family="Lato-Bold, Lato" font-size="48" font-weight="bold" fill="#666666">
-                <tspan x="2792" y="1227">Ideate Solutions</tspan>
-            </text>
-            <text id="Prototype" font-family="Lato-Bold, Lato" font-size="48" font-weight="bold" fill="#666666">
-                <tspan x="3606" y="885">Prototype</tspan>
-            </text>
-            <text id="Design-Process" font-family="Lato-Bold, Lato" font-size="72" font-weight="bold" fill="#666666">
-                <tspan x="3580.126" y="574">Design Process</tspan>
-            </text>
-            <text id="Test" font-family="Lato-Bold, Lato" font-size="48" font-weight="bold" fill="#666666">
-                <tspan x="4378" y="1231">Test</tspan>
-            </text>
-            <text id="Evaluate-and-Refine" font-family="Lato-Bold, Lato" font-size="48" font-weight="bold" fill="#666666">
-                <tspan x="3606" y="1539">Evaluate and Refine</tspan>
-            </text>
-            <text id="Dev-Handoff" font-family="Lato-Bold, Lato" font-size="48" font-weight="bold" fill="#666666">
-                <tspan x="4379" y="1723">Dev Handoff</tspan>
-            </text>
-            <text id="Final-Review" font-family="Lato-Bold, Lato" font-size="48" font-weight="bold" fill="#666666">
-                <tspan x="4375" y="2297">Final Review</tspan>
-            </text>
+        <g id="Artboard-Copy" transform="translate(-2782.000000, -390.000000)">
+            <g id="Group-9" transform="translate(4774.000000, 872.500000) rotate(-45.000000) translate(-4774.000000, -872.500000) translate(4415.000000, 514.000000)">
+                <path d="M617.693976,118 C750.316782,250.347766 750.381533,464.885742 617.88823,597.313764 L629.33555,608.738161 L563.897225,619 L574.180391,553.697386 L587.971889,567.46017 L591.229449,564.155923 C703.933874,447.978042 702.783829,262.618636 587.779314,147.852624 L617.693976,118 Z" id="Path" fill-opacity="0.5" fill="#4880C2"></path>
+                <path d="M152.543728,96 L142.263633,161.400682 L128.963528,148.104256 L125.942597,151.174065 C13.2718291,267.526415 14.4215308,453.164184 129.391702,568.102545 L99.4859733,598 C-33.017795,465.532893 -33.1618344,250.850747 99.0538552,118.204894 L87.1249455,106.27725 L152.543728,96 Z" id="Path" fill-opacity="0.55" fill="#FD66DA"></path>
+                <path d="M598.921189,617.93204 C466.453901,749.871759 251.776015,750.022481 119.120901,618.384205 L106.307777,631.14391 L96.0299444,566 L161.434336,576.2369 L149.022169,588.599634 L152.069912,591.58658 C268.428861,703.783936 454.077158,702.639065 569.022038,588.151967 L598.921189,617.93204 Z" id="Path" fill-opacity="0.5" fill="#0A4455"></path>
+                <path d="M611.769325,85.6116627 L622.050221,151 L556.626336,140.72469 L568.503539,128.853868 L565.482608,125.883985 C449.088978,13.2656526 263.385349,14.4148193 148.406209,129.331485 L118.498147,99.4396741 C250.995708,-32.9858947 465.716942,-33.1463633 598.413775,98.9582682 L611.769325,85.6116627 Z" id="Path" fill-opacity="0.5" fill="#7653A2"></path>
+            </g>
+            <g id="Group" transform="translate(2782.000000, 394.000000)" fill="#666666" font-family="Lato-Bold, Lato" font-weight="bold">
+                <text id="Observe-and-Analyze" font-size="48">
+                    <tspan x="0" y="47">Observe and Analyze</tspan>
+                </text>
+                <text id="UI-Requirements-Pers" font-size="36">
+                    <tspan x="0" y="107">UI Requirements</tspan>
+                    <tspan x="0" y="151">Persona Development</tspan>
+                    <tspan x="0" y="195">Contextual Interviews</tspan>
+                    <tspan x="0" y="239">Heuristic Evaluations</tspan>
+                    <tspan x="0" y="283">Behavior Observations</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(3467.000000, 394.000000)" fill="#666666" font-family="Lato-Bold, Lato" font-weight="bold">
+                <text id="Define-Problem" font-size="48">
+                    <tspan x="0" y="47">Define Problem</tspan>
+                </text>
+                <text id="Stakeholder-Discussi" font-size="36">
+                    <tspan x="0" y="107">Stakeholder Discussions</tspan>
+                    <tspan x="0" y="151">Desired Outcomes </tspan>
+                    <tspan x="0" y="195">Workshops</tspan>
+                    <tspan x="0" y="239">Project Kickoff</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(4080.000000, 394.000000)" fill="#666666" font-family="Lato-Bold, Lato" font-weight="bold">
+                <text id="Ideate-Solutions" font-size="48">
+                    <tspan x="0" y="47">Ideate Solutions</tspan>
+                </text>
+                <text id="Design-Brainstorming" font-size="36">
+                    <tspan x="0" y="107">Design Brainstorming</tspan>
+                    <tspan x="0" y="151">Ideal Workflow Definition</tspan>
+                    <tspan x="0" y="195">Technical Feasibility</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(5037.000000, 394.000000)" fill="#666666" font-family="Lato-Bold, Lato" font-weight="bold">
+                <text id="Prototype" font-size="48">
+                    <tspan x="0" y="47">Prototype</tspan>
+                </text>
+                <text id="Low-fidelity-wirefra" font-size="36">
+                    <tspan x="0" y="107">Low fidelity wireframes</tspan>
+                    <tspan x="0" y="151">Workflow diagrams</tspan>
+                    <tspan x="0" y="195">HTML/CSS prototype</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(5037.000000, 1181.000000)" fill="#666666" font-family="Lato-Bold, Lato" font-weight="bold">
+                <text id="Test" font-size="48">
+                    <tspan x="0" y="47">Test</tspan>
+                </text>
+                <text id="Usability-Study" font-size="36">
+                    <tspan x="1" y="107">Usability Study</tspan>
+                </text>
+            </g>
+            <g id="Group-6" transform="translate(4147.000000, 1181.000000)" fill="#666666" font-family="Lato-Bold, Lato" font-weight="bold">
+                <text id="Evaluate-and-Refine" font-size="48">
+                    <tspan x="0" y="47">Evaluate and Refine</tspan>
+                </text>
+                <text id="Research-Findings-De" font-size="36">
+                    <tspan x="0" y="107">Research Findings</tspan>
+                    <tspan x="0" y="151">Design Recomendations</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(3508.000000, 1181.000000)" fill="#666666" font-family="Lato-Bold, Lato" font-weight="bold">
+                <text id="Dev-Handoff" font-size="48">
+                    <tspan x="0" y="47">Dev Handoff</tspan>
+                </text>
+                <text id="Fully-annotated-high" font-size="36">
+                    <tspan x="0" y="107">Fully annotated high</tspan>
+                    <tspan x="0" y="151">fidelity mockups</tspan>
+                    <tspan x="0" y="195">Invision/Sketch/Axure </tspan>
+                    <tspan x="0" y="239">Protype</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(2782.000000, 1181.000000)" fill="#666666" font-family="Lato-Bold, Lato" font-weight="bold">
+                <text id="Final-Review" font-size="48">
+                    <tspan x="0" y="47">Final Review</tspan>
+                </text>
+                <text id="In-person-or-video-r" font-size="36">
+                    <tspan x="0" y="107">In person or video review </tspan>
+                    <tspan x="0" y="151">and demo</tspan>
+                </text>
+            </g>
             <text id="Release" font-family="Lato-Bold, Lato" font-size="72" font-weight="bold" fill="#666666">
-                <tspan x="3672.348" y="2526">Release</tspan>
+                <tspan x="2889.348" y="961">Release</tspan>
             </text>
-            <text id="UI-Requirements-Pers" font-family="Lato-Bold, Lato" font-size="36" font-weight="bold" fill="#666666">
-                <tspan x="2792" y="2357">UI Requirements</tspan>
-                <tspan x="2792" y="2401">Persona Development</tspan>
-                <tspan x="2792" y="2445">Contextual Interviews</tspan>
-                <tspan x="2792" y="2489">Heuristic Evaluations</tspan>
-                <tspan x="2792" y="2533">Behavior Observations</tspan>
-            </text>
-            <text id="Stakeholder-Discussi" font-family="Lato-Bold, Lato" font-size="36" font-weight="bold" fill="#666666">
-                <tspan x="2792" y="1782">Stakeholder Discussions</tspan>
-                <tspan x="2792" y="1826">Desired Outcomes </tspan>
-                <tspan x="2792" y="1870">Workshops</tspan>
-                <tspan x="2792" y="1914">Project Kickoff</tspan>
-            </text>
-            <text id="Design-Brainstorming" font-family="Lato-Bold, Lato" font-size="36" font-weight="bold" fill="#666666">
-                <tspan x="2792" y="1287">Design Brainstorming</tspan>
-                <tspan x="2792" y="1331">Ideal Workflow Definition</tspan>
-                <tspan x="2792" y="1375">Technical Feasibility</tspan>
-            </text>
-            <text id="Low-fidelity-wirefra" font-family="Lato-Bold, Lato" font-size="36" font-weight="bold" fill="#666666">
-                <tspan x="3606" y="945">Low fidelity wireframes</tspan>
-                <tspan x="3606" y="989">Workflow diagrams</tspan>
-                <tspan x="3606" y="1033">HTML/CSS prototype</tspan>
-            </text>
-            <text id="Usability-Study" font-family="Lato-Bold, Lato" font-size="36" font-weight="bold" fill="#666666">
-                <tspan x="4379" y="1291">Usability Study</tspan>
-            </text>
-            <text id="Research-Findings-De" font-family="Lato-Bold, Lato" font-size="36" font-weight="bold" fill="#666666">
-                <tspan x="3606" y="1599">Research Findings</tspan>
-                <tspan x="3606" y="1643">Design Recomendations</tspan>
-            </text>
-            <text id="Fully-annotated-high" font-family="Lato-Bold, Lato" font-size="36" font-weight="bold" fill="#666666">
-                <tspan x="4379" y="1783">Fully annotated high</tspan>
-                <tspan x="4379" y="1827">fidelity mockups</tspan>
-                <tspan x="4379" y="1871">Invision/Sketch/Axure </tspan>
-                <tspan x="4379" y="1915">Protype</tspan>
-            </text>
-            <text id="In-person-or-video-r" font-family="Lato-Bold, Lato" font-size="36" font-weight="bold" fill="#666666">
-                <tspan x="4378" y="2357">In person or video review </tspan>
-                <tspan x="4378" y="2401">and demo</tspan>
-            </text>
-            <path d="M3054.47756,1473.50748 L3135.47756,1532.50748 L3054.47756,1591.50748 L3054.47748,1565.53961 L3048.06591,1565.53961 C2945.49252,1565.28897 3006.30852,1565.53961 2870.49252,1565.53961 L2870.49252,1502.0851 L3054.47575,1502.0851 L3054.47756,1473.50748 Z" id="Path-Copy" fill-opacity="0.55" fill="#FD66DA" transform="translate(3002.985038, 1532.507481) rotate(-90.000000) translate(-3002.985038, -1532.507481) "></path>
-            <path d="M4638.49252,1474 L4719.49252,1533 L4638.49252,1592 L4638.49244,1566.03213 L4632.08087,1566.03213 C4529.50748,1565.78149 4590.32348,1566.03213 4454.50748,1566.03213 L4454.50748,1502.57762 L4638.49071,1502.57762 L4638.49252,1474 Z" id="Path-Copy-7" fill="#B8B7CE" transform="translate(4587.000000, 1533.000000) rotate(-270.000000) translate(-4587.000000, -1533.000000) "></path>
-            <path d="M4638.49252,2027 L4719.49252,2086 L4638.49252,2145 L4638.49244,2119.03213 L4632.08087,2119.03213 C4529.50748,2118.78149 4590.32348,2119.03213 4454.50748,2119.03213 L4454.50748,2055.57762 L4638.49071,2055.57762 L4638.49252,2027 Z" id="Path-Copy-8" fill="#4880C2" transform="translate(4587.000000, 2086.000000) rotate(-270.000000) translate(-4587.000000, -2086.000000) "></path>
-            <path d="M4210.98504,2408 L4291.98504,2467 L4210.98504,2526 L4210.98496,2500.03213 L4204.57339,2500.03213 C4102,2499.78149 4162.816,2500.03213 4027,2500.03213 L4027,2436.57762 L4210.98323,2436.57762 L4210.98504,2408 Z" id="Path-Copy-9" fill="#0A4455" transform="translate(4159.492519, 2467.000000) rotate(-180.000000) translate(-4159.492519, -2467.000000) "></path>
-            <path d="M3505.98504,2408 L3586.98504,2467 L3505.98504,2526 L3505.98496,2500.03213 L3499.57339,2500.03213 C3397,2499.78149 3457.816,2500.03213 3322,2500.03213 L3322,2436.57762 L3505.98323,2436.57762 L3505.98504,2408 Z" id="Path-Copy-10" fill="#325D79" transform="translate(3454.492519, 2467.000000) rotate(-180.000000) translate(-3454.492519, -2467.000000) "></path>
-            <path d="M3054.47756,2027 L3135.47756,2086 L3054.47756,2145 L3054.47748,2119.03213 L3048.06591,2119.03213 C2945.49252,2118.78149 3006.30852,2119.03213 2870.49252,2119.03213 L2870.49252,2055.57762 L3054.47575,2055.57762 L3054.47756,2027 Z" id="Path-Copy-4" fill="#D4E8FF" transform="translate(3002.985038, 2086.000000) rotate(-90.000000) translate(-3002.985038, -2086.000000) "></path>
+            <path d="M3404.82995,392.556356 L3434.31486,427.791216 C3435.8688,429.648202 3435.8688,432.351798 3434.31486,434.208784 L3404.83078,469.442652 C3403.05862,471.560411 3399.90522,471.840572 3397.78746,470.068409 C3396.65219,469.118409 3395.99625,467.714194 3395.99624,466.233883 L3395.99621,454.032127 L3395.99621,454.032127 L3389.58405,454.032127 C3329.63549,453.885658 3292.11967,453.867582 3277.03657,453.977899 C3274.27522,453.998092 3272.02033,451.775949 3272.00013,449.014601 C3272.00004,449.002412 3272,448.990222 3272,448.978033 L3272,415.577618 C3272,412.816194 3274.23858,410.577618 3277,410.577618 L3395.99448,410.577618 L3395.99448,410.577618 L3395.99541,395.764824 C3395.99559,393.003401 3398.2343,390.764966 3400.99573,390.765141 C3402.47593,390.765234 3403.88002,391.421175 3404.82995,392.556356 Z" id="Path-Copy-12" fill-opacity="0.55" fill="#325D79"></path>
+            <path d="M4017.82995,392.556356 L4047.31486,427.791216 C4048.8688,429.648202 4048.8688,432.351798 4047.31486,434.208784 L4017.83078,469.442652 C4016.05862,471.560411 4012.90522,471.840572 4010.78746,470.068409 C4009.65219,469.118409 4008.99625,467.714194 4008.99624,466.233883 L4008.99621,454.032127 L4008.99621,454.032127 L4002.58405,454.032127 C3942.63549,453.885658 3905.11967,453.867582 3890.03657,453.977899 C3887.27522,453.998092 3885.02033,451.775949 3885.00013,449.014601 C3885.00004,449.002412 3885,448.990222 3885,448.978033 L3885,415.577618 C3885,412.816194 3887.23858,410.577618 3890,410.577618 L4008.99448,410.577618 L4008.99448,410.577618 L4008.99541,395.764824 C4008.99559,393.003401 4011.2343,390.764966 4013.99573,390.765141 C4015.47593,390.765234 4016.88002,391.421175 4017.82995,392.556356 Z" id="Path-Copy-13" fill-opacity="0.55" fill="#325D79"></path>
+            <path d="M4017.82995,1172.55636 L4047.31486,1207.79122 C4048.8688,1209.6482 4048.8688,1212.3518 4047.31486,1214.20878 L4017.83078,1249.44265 C4016.05862,1251.56041 4012.90522,1251.84057 4010.78746,1250.06841 C4009.65219,1249.11841 4008.99625,1247.71419 4008.99624,1246.23388 L4008.99621,1234.03213 L4008.99621,1234.03213 L4002.58405,1234.03213 C3942.63549,1233.88566 3905.11967,1233.86758 3890.03657,1233.9779 C3887.27522,1233.99809 3885.02033,1231.77595 3885.00013,1229.0146 C3885.00004,1229.00241 3885,1228.99022 3885,1228.97803 L3885,1195.57762 C3885,1192.81619 3887.23858,1190.57762 3890,1190.57762 L4008.99448,1190.57762 L4008.99448,1190.57762 L4008.99541,1175.76482 C4008.99559,1173.0034 4011.2343,1170.76497 4013.99573,1170.76514 C4015.47593,1170.76523 4016.88002,1171.42117 4017.82995,1172.55636 Z" id="Path-Copy-14" fill-opacity="0.55" fill="#325D79" transform="translate(3967.500000, 1211.000000) rotate(-180.000000) translate(-3967.500000, -1211.000000) "></path>
+            <path d="M3404.82995,1172.55636 L3434.31486,1207.79122 C3435.8688,1209.6482 3435.8688,1212.3518 3434.31486,1214.20878 L3404.83078,1249.44265 C3403.05862,1251.56041 3399.90522,1251.84057 3397.78746,1250.06841 C3396.65219,1249.11841 3395.99625,1247.71419 3395.99624,1246.23388 L3395.99621,1234.03213 L3395.99621,1234.03213 L3389.58405,1234.03213 C3329.63549,1233.88566 3292.11967,1233.86758 3277.03657,1233.9779 C3274.27522,1233.99809 3272.02033,1231.77595 3272.00013,1229.0146 C3272.00004,1229.00241 3272,1228.99022 3272,1228.97803 L3272,1195.57762 C3272,1192.81619 3274.23858,1190.57762 3277,1190.57762 L3395.99448,1190.57762 L3395.99448,1190.57762 L3395.99541,1175.76482 C3395.99559,1173.0034 3398.2343,1170.76497 3400.99573,1170.76514 C3402.47593,1170.76523 3403.88002,1171.42117 3404.82995,1172.55636 Z" id="Path-Copy-15" fill-opacity="0.55" fill="#325D79" transform="translate(3354.500000, 1211.000000) rotate(-180.000000) translate(-3354.500000, -1211.000000) "></path>
+            <path d="M3061.82995,1040.55636 L3091.31486,1075.79122 C3092.8688,1077.6482 3092.8688,1080.3518 3091.31486,1082.20878 L3061.83078,1117.44265 C3060.05862,1119.56041 3056.90522,1119.84057 3054.78746,1118.06841 C3053.65219,1117.11841 3052.99625,1115.71419 3052.99624,1114.23388 L3052.99621,1102.03213 L3052.99621,1102.03213 L3046.58405,1102.03213 C2986.63549,1101.88566 2949.11967,1101.86758 2934.03657,1101.9779 C2931.27522,1101.99809 2929.02033,1099.77595 2929.00013,1097.0146 C2929.00004,1097.00241 2929,1096.99022 2929,1096.97803 L2929,1063.57762 C2929,1060.81619 2931.23858,1058.57762 2934,1058.57762 L3052.99448,1058.57762 L3052.99448,1058.57762 L3052.99541,1043.76482 C3052.99559,1041.0034 3055.2343,1038.76497 3057.99573,1038.76514 C3059.47593,1038.76523 3060.88002,1039.42117 3061.82995,1040.55636 Z" id="Path-Copy-16" fill-opacity="0.55" fill="#325D79" transform="translate(3011.500000, 1079.000000) rotate(-90.000000) translate(-3011.500000, -1079.000000) "></path>
+            <path d="M3061.82995,748.556356 L3091.31486,783.791216 C3092.8688,785.648202 3092.8688,788.351798 3091.31486,790.208784 L3061.83078,825.442652 C3060.05862,827.560411 3056.90522,827.840572 3054.78746,826.068409 C3053.65219,825.118409 3052.99625,823.714194 3052.99624,822.233883 L3052.99621,810.032127 L3052.99621,810.032127 L3046.58405,810.032127 C2986.63549,809.885658 2949.11967,809.867582 2934.03657,809.977899 C2931.27522,809.998092 2929.02033,807.775949 2929.00013,805.014601 C2929.00004,805.002412 2929,804.990222 2929,804.978033 L2929,771.577618 C2929,768.816194 2931.23858,766.577618 2934,766.577618 L3052.99448,766.577618 L3052.99448,766.577618 L3052.99541,751.764824 C3052.99559,749.003401 3055.2343,746.764966 3057.99573,746.765141 C3059.47593,746.765234 3060.88002,747.421175 3061.82995,748.556356 Z" id="Path-Copy-17" fill-opacity="0.55" fill="#325D79" transform="translate(3011.500000, 787.000000) rotate(-90.000000) translate(-3011.500000, -787.000000) "></path>
         </g>
     </g>
 </svg>

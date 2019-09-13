@@ -117,4 +117,7 @@ i {
     background: #333333;
     height: 40px;
     margin-top: 50px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
