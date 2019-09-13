@@ -71,6 +71,9 @@ i {
     margin: 20px;   
     box-shadow: 0px 0px 6px #999;
 }
+.post-img .index {
+    padding: 50px;
+}
 .tag {
     width: auto;
     margin-right: 10px;
