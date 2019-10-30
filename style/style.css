@@ -45,7 +45,24 @@ nav > a {
 img {
     max-width: 100%;
 }
-
+.home_page_text {
+    font-size: 24px;
+}
+.design_quote {
+  font-size: 20px;
+  font-weight: 700;
+  font-style: italic;
+  margin-top: 50px;
+  display: block;
+  text-align: center;
+}
+.design_quote > span {
+    font-size: 16px;
+    margin-left: 12px;
+    font-style: normal;
+    display: block;
+    text-align: center;
+}
 h4 > a {
     float: right;
     font-size: 14px;
