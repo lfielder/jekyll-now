@@ -123,6 +123,14 @@ nav {
 .page-title {
   border: 1px solid #333333;
 }
+.design_quote {
+  font-size: 20px;
+  font-weight: 700;
+  font-style: italic;
+  span {
+    font-size: 16px;
+  }
+}
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
